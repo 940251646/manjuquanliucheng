@@ -1,0 +1,4 @@
+interface:
+  display_name: "S级短剧全流程总控"
+  short_description: "协调十五个子技能完成从参考研究或创意到多季完整正文修订与交付的创作流程"
+  default_prompt: "使用 $s-drama-master 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"

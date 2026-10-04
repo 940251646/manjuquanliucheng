@@ -1,0 +1,4 @@
+interface:
+  display_name: "参考剧本结构重构"
+  short_description: "深读一部或多部参考剧本，生成多套原创题材主线架构并进行五维结构重构、开篇钩子重建与相似度审查"
+  default_prompt: "使用 $drama-reference-rebuild 完成本次指定的短剧创作任务，按项目规格输出实际成果与核对证据。"
